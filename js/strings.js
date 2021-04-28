@@ -3,8 +3,8 @@
 // alert(userName.length);
 //STEP 2
 let userName = prompt("What is your name?");
-let num = prompt("Please enter a number between 1 and 15");
-alert(userName.charAt(num));
+let num = parseInt(prompt("Please enter a number between 0 and 15"));
+alert("Letter returned in position " + num + " is " + userName.charAt(num));
 //STEP 3
 
 //STEP 4
