@@ -24,7 +24,11 @@
 // let wordSearch = prompt("What is word are looking for? ");
 // alert(text.search(wordSearch));
 //STEP 8
-
+// let old_string = "The quick brown fox jumps over the lazy dog";
+// old_string.lastIndexOf("the lazy dog");
+// let new_string = old_string.slice(31);
+// alert(new_string.toUpperCase());
 //STEP 9
-
+let text = "            THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG          ";
+alert(text.trim().toLowerCase());
 //STEP 10
