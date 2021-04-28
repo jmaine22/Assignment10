@@ -20,7 +20,7 @@
 // let userName = prompt("What is your full name?");
 // alert(text.replace("the lazy dog", userName));
 //STEP 7
-// let text= "The quick brown fox jumped over the lazy dog";
+// let text= "The quick brown fox jumps over the lazy dog";
 // let wordSearch = prompt("What is word are looking for? ");
 // alert(text.search(wordSearch));
 //STEP 8
