@@ -13,7 +13,8 @@
 // let text= "The quick brown fox jumps over the lazy dog";
 // alert("The index of fox is " + text.indexOf("fox"));
 //STEP 5
-
+let text= "The quick brown fox jumps over the lazy fox";
+alert("The index of fox is " + text.lastIndexOf("fox"));
 //STEP 6
 
 //STEP 7
