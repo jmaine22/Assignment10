@@ -6,11 +6,12 @@
 // let num = parseInt(prompt("Please enter a number between 0 and 15"));
 // alert("Letter returned in position " + num + " is " + userName.charAt(num));
 //STEP 3
-let fName = prompt("What is your first name?");
-let lName = prompt("What is your last name?");
-alert("Your name is: "+ fName.concat(" "+lName));
+// let fName = prompt("What is your first name?");
+// let lName = prompt("What is your last name?");
+// alert("Your name is: "+ fName.concat(" "+lName));
 //STEP 4
-
+// let text= "The quick brown fox jumps over the lazy dog";
+// alert("The index of fox is " + text.indexOf("fox"));
 //STEP 5
 
 //STEP 6
