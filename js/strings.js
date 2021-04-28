@@ -1,5 +1,6 @@
 //STEP 1
-
+let userName = prompt("What is your name?");
+alert(userName.length);
 //STEP 2
 
 //STEP 3
