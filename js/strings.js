@@ -13,12 +13,16 @@
 // let text= "The quick brown fox jumps over the lazy dog";
 // alert("The index of fox is " + text.indexOf("fox"));
 //STEP 5
-let text= "The quick brown fox jumps over the lazy fox";
-alert("The index of fox is " + text.lastIndexOf("fox"));
+// let text= "The quick brown fox jumps over the lazy fox";
+// alert("The index of fox is " + text.lastIndexOf("fox"));
 //STEP 6
-
+// let text= "The quick brown fox jumped over the lazy dog";
+// let userName = prompt("What is your full name?");
+// alert(text.replace("the lazy dog", userName));
 //STEP 7
-
+// let text= "The quick brown fox jumped over the lazy dog";
+// let wordSearch = prompt("What is word are looking for? ");
+// alert(text.search(wordSearch));
 //STEP 8
 
 //STEP 9
