@@ -6,15 +6,16 @@
 // }
 // alphaOrder("music");
 //STEP 2
-let upperfirstLetter = (words) => {
-    for (word in words) {
-        let word = words.split(' ');
-        //word.charAt(0).toUpperCase();
-        console.log(word);
-    }
-    //console.log(newString ,newString.length);
-}
-upperfirstLetter("the news is here");
+// let upperfirstLetter = (words) => {
+//     let newWords = words.split(' ');
+//     let x;
+//     let txt = " ";
+//     for (x in newWords) {
+//         txt += newWords[x].charAt(0).toUpperCase() + newWords[x].slice(1) + " ";
+//         console.log(txt);
+//     }
+// }
+// upperfirstLetter("the new javascript course is here right now");
 //STEP 3
 
 //STEP 4
