@@ -23,5 +23,9 @@
 // }
 // vowelCounter("The quick brown fox");
 //STEP 4
-
+let strID = () => {
+    let x = Math.random().toString(36).slice(2);
+    console.log(x);
+}
+strID();
 //STEP 5
