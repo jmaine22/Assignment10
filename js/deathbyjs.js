@@ -23,9 +23,15 @@
 // }
 // vowelCounter("The quick brown fox");
 //STEP 4
-let strID = () => {
-    let x = Math.random().toString(36).slice(2);
-    console.log(x);
-}
-strID();
+// let strID = () => {
+//     let x = Math.random().toString(36).slice(2);
+//     console.log(x);
+// }
+// strID();
 //STEP 5
+// let countries = (wCountries) => {
+//     let newArray = wCountries;
+//     return newArray.sort((x,y) => y.length - x.length);
+//     //console.log(newArray);
+// }
+// console.log(countries(["Australia", "Germany", "United States of America"]));
