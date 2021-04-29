@@ -17,7 +17,19 @@
 // }
 // upperfirstLetter("the new javascript course is here right now");
 //STEP 3
-
+let vowelCounter = (words) => {
+    let sentence = words.split(' ');
+    let vowel = ["a","u","i","o","e"];
+    let counter = 0;
+    let word;
+    let txt = " ";
+    for (word in sentence) {
+        txt += sentence[word] + " ";
+         console.log(txt);
+        console.log(counter);
+    }
+}
+vowelCounter("The quick brown fox");
 //STEP 4
 
 //STEP 5
