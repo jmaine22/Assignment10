@@ -20,6 +20,9 @@
 // yestdayDate.setDate(yestdayDate.getDate() - 1);
 // console.log(yestdayDate);
 //STEP 5
-let currentDay = new Date();
-currentDay.getDay();
-console.log(currentDay);
+// let currentDay = (dt) => {
+//     let weekday = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+//     let day = weekday[dt.getDay()];
+//     return day.charAt(0);
+// };
+// console.log(currentDay(new Date()));
