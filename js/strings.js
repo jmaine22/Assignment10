@@ -29,6 +29,9 @@
 // let new_string = old_string.slice(31);
 // alert(new_string.toUpperCase());
 //STEP 9
-let text = "            THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG          ";
-alert(text.trim().toLowerCase());
+// let text = "            THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG          ";
+// alert(text.trim().toLowerCase());
 //STEP 10
+// let text= "the quick brown fox jumps over the lazy dog";
+// text = text.replace("the", "The");
+// alert(text);
