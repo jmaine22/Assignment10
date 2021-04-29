@@ -17,11 +17,11 @@
 // }
 // upperfirstLetter("the new javascript course is here right now");
 //STEP 3
-let vowelCounter = (words) => {
-    const count = words.match(/[aeiou]/gi).length;
-    console.log(count);
-}
-vowelCounter("The quick brown fox");
+// let vowelCounter = (words) => {
+//     const count = words.match(/[aeiou]/gi).length;
+//     console.log(count);
+// }
+// vowelCounter("The quick brown fox");
 //STEP 4
 
 //STEP 5
